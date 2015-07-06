@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://slp-etr-public.github.io/sitemap.xml
