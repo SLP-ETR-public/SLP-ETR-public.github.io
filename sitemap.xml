@@ -37,6 +37,12 @@
     <changefreq>daily</changefreq>
   </url>
   <url>
+    <loc>http://slp-etr-public.github.io/2015/07/08/meeting.html</loc>
+    <lastmod>2015-07-08</lastmod>
+    <priority>0.7</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
     <loc>http://slp-etr-public.github.io/tags/whiteboard.html</loc>
     <lastmod>2015-07-06</lastmod>
     <priority>0.9</priority>
@@ -44,12 +50,6 @@
   </url>
   <url>
     <loc>http://slp-etr-public.github.io/tags/studymeeting.html</loc>
-    <lastmod>2015-07-06</lastmod>
-    <priority>0.9</priority>
-    <changefreq>daily</changefreq>
-  </url>
-  <url>
-    <loc>http://slp-etr-public.github.io/tags/memo.html</loc>
     <lastmod>2015-07-06</lastmod>
     <priority>0.9</priority>
     <changefreq>daily</changefreq>
@@ -64,6 +64,12 @@
     <loc>http://slp-etr-public.github.io/2015/07.html</loc>
     <lastmod>2015-07-06</lastmod>
     <priority>0.9</priority>
+    <changefreq>daily</changefreq>
+  </url>
+  <url>
+    <loc>http://slp-etr-public.github.io/2015/07/08.html</loc>
+    <lastmod>2015-07-06</lastmod>
+    <priority>0.8</priority>
     <changefreq>daily</changefreq>
   </url>
   <url>
