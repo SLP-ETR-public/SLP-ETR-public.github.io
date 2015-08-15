@@ -5,10 +5,27 @@
   <id>http://slp-etr-public.github.io</id>
   <link href="http://slp-etr-public.github.io"/>
   <link href="http://slp-etr-public.github.io/feed.xml" rel="self"/>
-  <updated>2015-07-10T11:56:00Z</updated>
+  <updated>2015-08-15T10:56:00Z</updated>
   <author>
     <name>slp-etr</name>
   </author>
+  <entry>
+    <title>meeting</title>
+    <link rel="alternate" href="http://slp-etr-public.github.io/2015/08/15/20150814.html"/>
+    <id>http://slp-etr-public.github.io/2015/08/15/20150814.html</id>
+    <published>2015-08-15T10:56:00Z</published>
+    <updated>2015-08-15T20:02:15+09:00</updated>
+    <author>
+      <name>Article Author</name>
+    </author>
+    <content type="html">&lt;h1 id="2015.08.15-�$b3hf0&amp;lt;l??�(b"&gt;2015.08.15 �$B3hF0&amp;lt;L??�(B&lt;/h1&gt;
+
+&lt;p&gt;&lt;img alt="whiteboard1" src="../../../posts/2015/08/15/20150814/01.JPG" /&gt;
+&lt;img alt="whiteboard2" src="../../../posts/2015/08/15/20150814/02.JPG" /&gt;
+&lt;img alt="whiteboard3" src="../../../posts/2015/08/15/20150814/03.JPG" /&gt;
+&lt;img alt="whiteboard4" src="../../../posts/2015/08/15/20150814/04.JPG" /&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>meeting</title>
     <link rel="alternate" href="http://slp-etr-public.github.io/2015/07/10/meeting.html"/>
@@ -105,20 +122,6 @@ $ git push origin master&amp;#39;&amp;#39;}
 &lt;p&gt;&lt;img alt="whiteboard1" src="../../../posts/2015/07/03/meeting/20150703_01.jpg" /&gt;
 &lt;img alt="whiteboard2" src="../../../posts/2015/07/03/meeting/20150703_02.jpg" /&gt;
 &lt;img alt="whiteboard3" src="../../../posts/2015/07/03/meeting/20150703_03.jpg" /&gt;&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>meeting</title>
-    <link rel="alternate" href="http://slp-etr-public.github.io/2015/06/28/meeting.html"/>
-    <id>http://slp-etr-public.github.io/2015/06/28/meeting.html</id>
-    <published>2015-06-28T00:00:00Z</published>
-    <updated>2015-07-06T17:46:11+09:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;h1 id="2015.06.28-活動記録"&gt;2015.06.28 活動記録&lt;/h1&gt;
-
-&lt;p&gt;&lt;img alt="whiteboard" src="../../../posts/2015/06/28/meeting/20150628.jpg" /&gt;&lt;/p&gt;
 </content>
   </entry>
 </feed>
